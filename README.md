@@ -11,9 +11,9 @@ The Secure File Sharing System is a web-based application designed to provide us
 This project aims to strike a balance between simplicity, user control, and strong security, offering a practical solution for secure file sharing and management in both personal and collaborative settings. It's ideal for academic, organizational, or personal use where privacy and controlled access are priorities.
 
 ## Features
-The system offers a range of features for both administrators and regular users:
+The system offers a range of features for both administrators and regular users :
 
-User Module Features 
+User Module Features :
   * User Registration and Login: Users can create personal accounts and log in to a dedicated dashboard.
   * Profile Management: View and update personal profile information.
   * Secure File Management:
@@ -26,7 +26,7 @@ User Module Features
     * Access is granted only upon approval from the original uploader, ensuring full control.
   * Feedback Mechanism: Users can submit feedback, suggestions, or report issues to contribute to continuous improvement.
 
-Admin Module Features 
+Admin Module Features :  
   * User Management: View and manage all registered users, including usernames, email addresses, and account status. This allows monitoring user activity, handling misuse, or deactivating accounts.
   * File Oversight: Access and manage all uploaded files within the system, including viewing file metadata and deleting inappropriate or harmful files to maintain platform integrity.
   * Feedback Management: View, respond to, and take necessary actions based on user feedback to improve system performance and user experience.
